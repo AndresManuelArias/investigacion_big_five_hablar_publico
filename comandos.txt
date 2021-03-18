@@ -1,0 +1,12 @@
+deno run --allow-read index.ts
+deno run tabuladorBigFive.ts 
+denon run tabuladorBigFive.ts 
+
+
+deno run --allow-read --location https://localhost:3000 index.ts 
+
+denon run --allow-read --location https://localhost:3000 index.ts 
+
+deno run --allow-read --location https://localhost:3000  --allow-net server.ts
+
+denon run --allow-read --location https://localhost:3000  --allow-net server.ts
